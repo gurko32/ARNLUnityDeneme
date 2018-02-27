@@ -25,6 +25,10 @@ ehthumbs.db
 *.unityproj
 *.booproj
 
+
+[Ll]ibrary/
+
+
 # Unity generated
 # ===============
 [Oo]bj/
