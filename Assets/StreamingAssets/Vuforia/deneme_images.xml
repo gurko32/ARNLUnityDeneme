@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Will-Ferrell" size="50.000000 62.500000" />
+    <ImageTarget name="semihTheWise" size="50.000000 66.666664" />
+    <ImageTarget name="radar" size="50.000000 50.000000" />
+    <ImageTarget name="pp" size="50.000000 50.000000" />
+    <ImageTarget name="photo" size="50.000000 50.000000" />
+    <ImageTarget name="numbers" size="50.000000 33.275864" />
+    <ImageTarget name="myneck" size="50.000000 40.762123" />
+    <ImageTarget name="mipsArch" size="50.000000 40.346085" />
+    <ImageTarget name="melih" size="50.000000 50.000000" />
+    <ImageTarget name="Mario" size="50.000000 50.000000" />
+    <ImageTarget name="lacin" size="50.000000 89.058525" />
+    <ImageTarget name="joker" size="50.000000 89.058525" />
+    <ImageTarget name="htmlcss" size="50.000000 33.333332" />
+    <ImageTarget name="hoisgeldinmelike" size="50.000000 28.125000" />
+    <ImageTarget name="hakanSemih" size="50.000000 49.775112" />
+    <ImageTarget name="gurkan1" size="50.000000 53.496868" />
+    <ImageTarget name="gurkan" size="50.000000 52.002003" />
+    <ImageTarget name="gantt" size="50.000000 24.581339" />
+    <ImageTarget name="dumbledore2" size="50.000000 33.333332" />
+    <ImageTarget name="dumbledor3" size="50.000000 33.320000" />
+    <ImageTarget name="dumbledor" size="50.000000 50.847458" />
+    <ImageTarget name="dersProgrami" size="50.000000 26.142132" />
+    <ImageTarget name="dedeler" size="50.000000 35.755257" />
+    <ImageTarget name="com" size="50.000000 31.136364" />
+    <ImageTarget name="cockblock" size="50.000000 53.882576" />
+    <ImageTarget name="camera" size="50.000000 24.266054" />
+    <ImageTarget name="bf4" size="50.000000 74.400002" />
+    <ImageTarget name="BERILBUISI" size="50.000000 41.937870" />
+    <ImageTarget name="benseni" size="50.000000 64.102562" />
+    <ImageTarget name="atom" size="50.000000 26.250000" />
+    <ImageTarget name="ateca" size="50.000000 33.356499" />
+    <ImageTarget name="aselsan" size="50.000000 28.000000" />
+    <ImageTarget name="ARIF" size="50.000000 27.770178" />
+    <ImageTarget name="aselsan_org_en" size="50.000000 32.631580" />
+    <ImageTarget name="Aircraft" size="50.000000 30.000000" />
+    <ImageTarget name="ahmet" size="50.000000 50.000000" />
+    <ImageTarget name="1n2u92" size="50.000000 62.700001" />
+    <ImageTarget name="ONUR" size="0.100000 0.133056" />
+  </Tracking>
+</QCARConfig>
